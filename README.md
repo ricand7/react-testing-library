@@ -15,15 +15,20 @@
     
 ## Iniciando:
 
-> Crie uma pasta e dentro dela execute: 
+> Na sua pasta de projetos execute: 
+
+```
+git clone git@github.com:ricand7/react-testing-library.git
+
+``` 
+
 
 
 ## Instalando Dependências
 
-> Entre na pasta Raiz e execute o comando:
+> Entre na pasta Raiz(pasta clonada acima) e execute o comando:
 
 ```
-bash
 cd react-testing-library
 npm install
 
