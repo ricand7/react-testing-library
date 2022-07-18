@@ -3,6 +3,7 @@ import './about.css';
 
 const About = () => (
   <section>
+   {/* eslint-disable-next-line */}
     <h2>{ `About ` + `Pokédex` }</h2>
     <section>
       <p>

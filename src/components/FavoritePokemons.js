@@ -12,6 +12,7 @@ class FavoritePokemons extends React.Component {
   static notFound() {
     return (
       <div>
+       {/* eslint-disable-next-line */}
         <p>{`No favorite ` + `pokemon found`}</p>
       </div>
     );
